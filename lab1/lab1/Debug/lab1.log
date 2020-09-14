@@ -1,0 +1,3 @@
+﻿  lab1.cpp
+D:\Projects C++\lab1\lab1\lab1.cpp(16,29): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+  lab1.vcxproj -> D:\Projects C++\lab1\Debug\lab1.exe
