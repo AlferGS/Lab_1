@@ -12,7 +12,6 @@ int main()
 	std::getline(std::cin, str);
 	size = str.size();
 	str = reverse(str, size);
-	//str = toupper(str);
 	std::cout << std::setw(size*1.5) << str << "\n";
 }
 
